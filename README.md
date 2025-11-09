@@ -1,3 +1,7 @@
+> 🔧 **Fork notice (Rochine Labs)**  
+> Used as a reference for **RobotLink**: device handshake, telemetry signing, and ROS2/MQTT bridges.  
+> Source: https://github.com/ros2/ros2
+
 # About 
 The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications.
 From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project.
