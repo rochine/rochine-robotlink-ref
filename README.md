@@ -42,3 +42,10 @@ Once you've installed ROS start by learning some [basic concepts](https://docs.r
 
 ROS is made possible through the generous support of open source contributors and the non-profit [Open Source Robotics Foundation (OSRF)](https://www.openrobotics.org/).
 Tax deductible donations to the OSRF can be [made here.](https://donorbox.org/support-open-robotics?utm_medium=qrcode&utm_source=qrcode)
+
+### 🔗 Rochine Ecosystem
+- [Rochine Lab](https://github.com/rochine/rochine-lab)
+- [Rochine Console](https://github.com/rochine/rochine-console)
+- [Rochine RobotLink Ref](https://github.com/rochine/rochine-robotlink-ref)
+- [Rochine Hub](https://github.com/rochine/rochine-hub)
+
